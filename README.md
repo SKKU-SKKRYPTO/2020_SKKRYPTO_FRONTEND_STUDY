@@ -10,7 +10,7 @@
  
 ***
 ### (2주차) CSS Flexbox & Grid 
-주제: CSS FlexBox & Grid 
+주제: CSS FlexBox & Grid <br>
 발표자: 김희윤, 이용욱
  
 #### References

@@ -11,6 +11,7 @@
 ***
 ### (2주차) CSS Flexbox & Grid 
 주제: CSS FlexBox & Grid 
+발표자: 김희윤, 이용욱
  
 #### References
 - https://studiomeal.com/archives/197

@@ -2,3 +2,18 @@
     display: flex;
 }
 
+.Test{
+    display: grid;
+}
+
+.inlineBlock{
+    display: inline-block;
+    width:100px;
+    height: 100px;
+}
+
+.block{
+    display: block;
+    width:100px;
+    height: 100px;
+}

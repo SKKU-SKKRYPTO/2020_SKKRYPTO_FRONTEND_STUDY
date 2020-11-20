@@ -130,6 +130,8 @@
 - https://www.youtube.com/results?search_query=%EC%9A%B0%EC%95%84%ED%95%9C+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8
 - https://www.typescriptlang.org/docs/
 
+***
+
 ### Participants
 
 
